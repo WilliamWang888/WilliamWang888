@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WilliamWang888
 - 👀 I’m interested in Tech & Business
-- 🌱 I’m currently learning CRM/ERP Info sys and blockchain
+- 🌱 I’m currently learning CRM/ERP Info sys ,Cloud and blockchain
 - 💞️ I’m looking to collaborate on PM and tech startups
 - 📫 How to reach me :https://www.linkedin.com/in/williamwang912/
 
